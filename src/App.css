@@ -1,0 +1,8 @@
+body { background-color: blue; }
+.notes { border-top-left-radius: 42px; }
+.dot { height: 6px; width: 6px; margin-left: 8px; margin-right: 3px; margin-top: 2px; background-color: rgb(91, 92, 91); border-radius: 50%; display: inline-block; }
+.review-text { background: red; color: #fff; }
+.info { color: #8c8b9a; }
+.line-text { width: 100%; text-align: center; border-bottom: 1px solid #eee; line-height: 0.1em; margin: 10px 0 20px; }
+.line-text span { background: #fff; padding: 0 10px; color: #212529; }
+.user-images img { margin-left: -5px; }
